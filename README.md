@@ -32,7 +32,7 @@ Download [cmder](https://github.com/cmderdev/cmder/releases/download/v1.3.11/cmd
 
 ```bash
 cd Desktop
-git clone https://github.com/aron-tn/SMTP-Mail.acess-Cracker-Checker
+git clone https://github.com/PeeNelson/SMTP-CRACK-2024
 cd SMTP-Mail.acess-Cracker-Checker
 smtp.py
 ```
