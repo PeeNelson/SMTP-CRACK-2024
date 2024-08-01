@@ -12,7 +12,7 @@ SMTP / Mail access Cracker ☣ Scanner & check & send to email
 
 ```bash
 cd Desktop
-git clone https://github.com/aron-tn/SMTP-Mail.acess-Cracker-Checker
+git clone https://github.com/PeeNelson/SMTP-CRACK-2024
 cd SMTP-Mail.acess-Cracker-Checker
 python2 smtp.py
 ```
@@ -22,7 +22,7 @@ python2 smtp.py
 Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```bash
-git clone https://github.com/aron-tn/SMTP-Mail.acess-Cracker-Checker
+git clone https://github.com/PeeNelson/SMTP-CRACK-2024
 cd SMTP-Mail.acess-Cracker-Checker
 python2 smtp.py
 ```
@@ -36,4 +36,4 @@ git clone https://github.com/aron-tn/SMTP-Mail.acess-Cracker-Checker
 cd SMTP-Mail.acess-Cracker-Checker
 smtp.py
 ```
-<h5>Projects by Aron-tn<h5/>
+<h5>Projects by PEENelson-2024<h5/>
